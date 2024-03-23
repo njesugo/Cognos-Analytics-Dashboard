@@ -1,7 +1,7 @@
 Analysing Waste Company Data on a Dashboard 
 
 
-!`Dashboard`(dashboard.png)
+![`Dashboard`](dashboard.png)
 
 
 | Criterion                                      | Value           |
@@ -10,8 +10,6 @@ Analysing Waste Company Data on a Dashboard
 | City with the lowest number of WasteCollected | Salvador        |
 | TruckType with the highest number of WasteCollected | Scania    |
 | Station with the highest number of WasteCollected | #83            |
-
-
 
 
 
