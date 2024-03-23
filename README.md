@@ -1,4 +1,8 @@
-Analysing Ecommerce Data on a Dashboard 
+Analysing Waste Company Data on a Dashboard 
+
+
+![Dashboard](dashboard.png)
+
 
 | Criterion                                      | Value           |
 |-----------------------------------------------|-----------------|
