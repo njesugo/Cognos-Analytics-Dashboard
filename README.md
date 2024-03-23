@@ -1,7 +1,7 @@
 Analysing Waste Company Data on a Dashboard 
 
 
-![Dashboard](dashboard.png)
+!`Dashboard`(dashboard.png)
 
 
 | Criterion                                      | Value           |
