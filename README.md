@@ -8,6 +8,9 @@ Analysing Ecommerce Data on a Dashboard
 | Station with the highest number of WasteCollected | #83            |
 
 
+
+
+
 | Outils Utilisés | Description                                   |
 |-----------------|-----------------------------------------------|
 | IBM Cloud       | Plateforme de cloud computing d'IBM.         |
