@@ -1,9 +1,8 @@
-Analysing Waste Company Data on a Dashboard 
+Analysing Garbage Collection Company Data on a Dashboard 
 
+### `Dashboard`
 
-![`Dashboard`](dashboard.png)
-
-![streamify-architecture](images/Streamify-Architecture.jpg)
+![`Dashboard`](images/dashbord.png)
 
 
 | Criterion                                      | Value           |
