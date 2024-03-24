@@ -3,6 +3,8 @@ Analysing Waste Company Data on a Dashboard
 
 ![`Dashboard`](dashboard.png)
 
+![streamify-architecture](images/Streamify-Architecture.jpg)
+
 
 | Criterion                                      | Value           |
 |-----------------------------------------------|-----------------|
